@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+fastapi
+uvicorn
+redis
+confluent-kafka
+pyspark
+xgboost
+scikit-learn
+optuna
+python-dotenv
+pyarrow>=18.0.0
